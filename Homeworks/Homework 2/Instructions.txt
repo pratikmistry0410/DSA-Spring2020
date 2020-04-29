@@ -1,0 +1,56 @@
+Language of Programming: Python 3
+OS: Mac OS
+Code Editor: Visual Studio Code
+
+General instructions for input dataset (except Q2):
+1. There is a readDataset() in each python code file. Please change the "file" variable with the path of folder of the dataset
+2. For running program for different datasets, please change the "filename" variable
+
+
+Question 1:
+1. The program can be directly run using Python 3
+2. Program has code for both Shell Sort all the way where h=7,3,1 and insertion sort phase where h=1 in the single file "Q1.py"
+
+
+Question 2:
+1. The program can be directly run using Python 3
+2. In this program, you have to use two dataset to find the Kendall Tau distance between two arrays
+3. Please assign the "filename_1" to point to dataset0.* and "filename_2" to point to dataset1.*
+4. Make sure that the two input filenames have the same size of dataset. eg. dataset0.1024 and dataset1.1024
+5. Program has code to find the inversions in second array since it is unsorted and since first array is sorted, the inversions of second array gives us Kendall Tau Distance
+6. The codefile "Q2.py" has two algorithm just for the sake of comparison - Brute force and Sophisticated (Merge Sort based) to find inversions in second array
+
+
+Question 3:
+A. Merge Sort (Top Down)
+1. The program can be directly run using Python 3
+2. This program implements the merge sort (Top Down Method) algorithm to sort the input data and codefile is "Q3a.py"
+
+B. Merge Sort (Bottom Up)
+1. The program can be directly run using Python 3
+2. This program implements the merge sort (Bottom Up Method) algorithm to sort the input data and codefile is "Q3b.py"
+
+
+Question 4:
+1. For this program,input dataset is generated at runtime and dataset is stored in "dataset" file. 
+2. This program implements insertion sort best suited in case of sorted dataset having linear time complexity
+3. Codefile for the program is "Q4.py"
+4. The program can be directly run using Python 3
+
+
+Question5:
+A. Quick Sort - Median of 3
+1. This program implements quick sort - median of 3 approach to sort the input dataset
+2. Code file is "Q5a.py"
+3. The program can be directly run using Python 3
+
+B. Quick Sort (Median of 3) with Cutoff to Insertion (Cutoff = 7)
+1. This program implements Quick Sort (Median of 3) with Cutoff to Insertion (Cutoff = 7) approach to sort the input dataset
+2. Please make sure that the global variable "cutoff" is the cutoff variable at which quicksort switches to insertion sort
+3. The codefile is "Q5b.py" and can be directly run using Python 3
+
+C. Comparison of different "Cutoff" values in the previous algorithm
+1. The program and code file to analyze the effect of different cutoff values in quick sort switching to insertion sort is same as 5.B i.e. "Q5b.py" and can be directly run using Python 3
+2. Please change the global "cutoff" variable defined at the start of program
+3. To please use a single dataset size i.e. eg 32768 for both datasets - ordered and unordered i.e. dataset0.32768 and dataset1.32768 to analyze the effect of different "cutoff" values on both types of dataset
+4. Analyze the different cutoff values on dataset with the Quick Sort (Median of 3) algorithm i.e. 5.A on the same dataset

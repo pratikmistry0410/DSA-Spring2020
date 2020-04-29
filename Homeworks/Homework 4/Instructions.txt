@@ -1,0 +1,41 @@
+OS: Mac OS
+Programming Language: Python3
+IDE: Visual Studio Code
+
+Q1:
+1. Please execute Q1.py file in Q1 folder for finding whether the graph created from given dataset is acyclic or not.
+
+
+Q2:
+A. Kruskal’s Algorithm for MST
+1. Use Q2_Kruskal.py file in Q2 folder for finding the Minimum Spanning Tree using Kruskal’s algorithm. I have printed the weight of MST and time taken for calculating MST. 
+2. For displaying the order of edges traversed uncomment the print() statements as mentioned in main() function of the code
+
+B. Prim’s Algorithm for MST - Lazy Approach
+1. Use Q2_Prim.py file in Q2 folder for finding the Minimum Spanning Tree using Prim’s algorithm. I have printed the weight of MST and time taken for calculating MST. 
+2. For displaying the edges uncomment the print() statements as mentioned in main() function of the code
+
+
+
+Q3: Explained in the document submitted
+
+
+Q4:
+A. Explained in the document submitted
+B. Explained in the document submitted
+
+
+Q5:
+A. Depth First Search
+1. Please execute Q5_DFS.py file in Q5 folder to perform the Depth First Search on the graph for given dataset
+2. For displaying the order of edges traversed uncomment the print() statements as mentioned in main() function of the code
+
+B. Breadth First Search
+1. Please execute Q5_BFS.py file in Q5 folder to perform the Breadth First Search on the graph for given dataset
+2. For displaying the order of edges traversed uncomment the print() statements as mentioned in main() function of the code
+
+
+Q6:
+1. Use Q6.py file in Q6 folder for finding the shortest paths for the graphs that would be formed by using dataset of Question 4a and 4b.
+2. I have created functions homework4a(), homework4b() called in the main function which will find the shortest paths for the graphs created from dataset of Question 4a and 4b.
+3. I have also mentioned function slideExample() which is commented in main function to find the shortest path for the graph given in the lecture slides.

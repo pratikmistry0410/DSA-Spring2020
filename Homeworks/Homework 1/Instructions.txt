@@ -1,0 +1,38 @@
+Compiler used: Visual Studio 2012 Express
+Language: C++
+Machine OS: Windows 10
+
+Steps to create the empty project:
+1. Open Visual Studio installed in Windows 10
+2. Create New Project..
+3. Select Visual C++ -> Win32 -> Console Application. Select "Empty Project" in Application Settings and click "Finish"
+4. Enter name of project and select the location as Desktop
+5. Copy all the dataset folders in extracted form on the Desktop
+6. Import source file (cpp files for each question and sub-question) for each project and run it.
+
+Instructions for each question and sub-question:
+Q1a and Q1b:
+1. After importing the file, make sure the path for the dataset folder is correct
+2. For changing the dataset file after path is set in code statement which opens the file for reading, just change the number in the "SIZE" defined after including preprocessor directives
+3. Run the code by changing just the SIZE value for each dataset file and it will give the complexity count (Time complexity) for each dataset file
+
+Q2a, Q2b and Q2c:
+1. After importing the file, make sure the path for the dataset folder is correct
+2. For changing the dataset file after path is set in code statement which opens the file for reading, just change the number in the "PAIRS" defined after including preprocessor directives
+3. Run the code by changing just the PAIRS value for each dataset file and it will give the complexity count (Time complexity) for each dataset file
+4. Please do not change the SIZE value because it is the maximum point data that a pair can have
+
+Q4:
+1. I have hard-coded the array for which we need to find the farthest distance between two elements 
+2. Change the hard-coded array values by entering numbers of your choice
+3. Please enter more than 1 array element as it is a farthest distance between two elements problem
+
+Q5a:
+1. I have hard-coded the array for which we need to find the two-sum problem. 
+2. Change the hard-coded array values by entering numbers of your choice
+3. Please enter more than 1 array element as it is a two-sum problem
+
+Q5b:
+1. I have hard-coded the array for which we need to find the three-sum problem. 
+2. Change the hard-coded array values by entering numbers of your choice
+3. Please enter more than 2 array element as it is a three-sum problem

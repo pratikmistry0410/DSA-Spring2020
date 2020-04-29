@@ -1,0 +1,44 @@
+OS: Mac OS
+Programming Language: Python3
+IDE: Visual Studio Code
+
+Q1:
+1. Please execute Q1.py file in Q1 folder for creating 2-3 Red-Black BST and printing the nodes by inorder traversal.
+2.I have created tree and printed output for two inputs:
+	a. Hard Coded Array: SEARCHEXAMPLE as in the slides. Uncomment main_input1() for using this dataset in the Main Function
+	b. Given dataset file i.e. select-data.txt. Uncomment main_input2() for using the given dataset in the Main Function
+
+
+
+Q2:
+I have calculated average path length for two types of trees: Binary Search Tree as well as 2-3 Red-Black BST and written program each for inserting elements in Ordered and Random format
+
+A. Binary Search Tree
+1. Use Q2_BST.py file in Q2 folder for calculating average path lengths of different tree sizes for both random and ordered insertion of keys.
+
+B. 2-3 Red-Black BST
+1. Use Q2_RB_BST.py file in Q2 folder for calculating average path lengths of different tree sizes for both random and ordered insertion of keys.
+
+
+
+Q3:
+1. Please execute Q3.py file in Q3 folder to find the average percentage of red nodes in 2-3 Red-Black BST for different tree sizes
+2. Took almost 5 hours for the machine for complete execution
+
+
+
+Q4:
+Use Q4.py file in Q4 folder for execution. Calculating Average path length and standard deviation for tree sizes 1 to 10000 with 1000 trials will take a lot of time. Thus, I have created two functions: one will execute for all the tree sizes 1 to 10000 and other will execute for selected sizes i.e 1,2,4,8,16,32,64,128,256,512,1024,2048,4096,8192,10000
+
+A. All nodes: 
+1. Uncomment main_allNodes() function in main Function for considering nodes 1 to 10000
+2. It took 40 hrs on my machine to execute from node 1 to 2105 after which I had to go for selected node sizes
+
+B. Selected Nodes:
+1. Uncomment main_selectedNodes() function in main Function for considering selected nodes
+2. It took 45-60 mins on my machine to execute for selected nodes
+
+
+
+Q5:
+Please execute Q5.py file in Q5 folder for getting the output of select(7) and rank(7)
