@@ -1,5 +1,5 @@
 # DSA-Spring2020
-This repository has all the homework/assignment questions &amp; solutions, project and term paper along with all the relevant documentation for the course of Data Structures and Algorithms course (16:332:573) at Rutgers University in the department of Electrical and Computer Engineering. 
+This repository has all the homework/assignment questions &amp; solutions, project, term paper and midterm exam 2 (programming questions) along with all the relevant documentation for the course of Data Structures and Algorithms course (16:332:573) at Rutgers University in the department of Electrical and Computer Engineering. 
 
 Homeworks:
 Homework 1: 94/100
@@ -23,5 +23,10 @@ Marks: Awaiting Marks
 
 Term Paper: Sequence Alignment Methods in Bioinformatics for Biological Sequences
 Term Paper Document
+
+Midterm Exam 2: Programming Questions
+1. Solution Document
+2. Code File
+3. Instructions to run the code files
 
 Please post the questions if any.
