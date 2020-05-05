@@ -1,0 +1,13 @@
+OS: Mac OS
+Programming Language: Python3
+IDE: Visual Studio Code
+
+
+Q1:
+1. Use midterm_Q1.py file in Q1 folder for finding the diameter of the directed graph created for datasets given 
+2. I have created functions tinyEWD(), mediumEWD(), EWD_1000() and EWD_10000() to be called in the main function which will find the diameter of the directed graphs created from datasets - tinyEWD.txt, mediumEWD.txt, 1000EWD.txt and 10000EWD.txt
+3. Please uncomment the function name and execute the program for corresponding dataset for which you want to find the diameter of the directed graph 
+
+
+Q2:
+1. Please execute midterm_Q2.py file in Q2 folder for finding total number of connected components, size of largest connected components and number of components less than 10
