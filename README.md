@@ -39,7 +39,7 @@ Term Paper Document
 
 Midterm Exam 2: Programming Questions
 
-Marks = 100/100
+Marks: 100/100
 
 1. Solution Document
 2. Code File
