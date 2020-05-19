@@ -1,5 +1,5 @@
 # DSA-Spring2020
-This repository has all the homework/assignment questions &amp; solutions, project, term paper and midterm exam 2 (programming questions) along with all the relevant documentation for the course of Data Structures and Algorithms course (16:332:573) at Rutgers University in the department of Electrical and Computer Engineering. The final grade for the course was A
+This repository has all the homework/assignment questions &amp; solutions, project, term paper and midterm exam 2 (programming questions) along with all the relevant documentation for the course of Data Structures and Algorithms course (16:332:573) at Rutgers University in the department of Electrical and Computer Engineering. The final grade for the course is A.
 
 Homeworks:
 
@@ -17,6 +17,7 @@ Homeworks contains below materials:
 3. Code files
 4. Instructions to run the code files
 5. Datasets
+
 
 Project: Collision Detection and Avoidance using Convex Hull Algorithms
 
@@ -44,5 +45,6 @@ Marks: 100/100
 1. Solution Document
 2. Code File
 3. Instructions to run the code files
+
 
 Please post the questions if any.
